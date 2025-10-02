@@ -1,7 +1,11 @@
-# Unstructured_Assignment_3
-- Task A - Grace (Gofundme)
-- Task B - Grace (Gofundme)
-- Task C
-- Task D
-- Task E
-- Task F
+# Unstructured Assignment 3
+
+| Task                           | What                                                                                  | File/Notebook                                                                                                                                                        | Completed by | Date | Validated by | Notes / PR |
+| ------------------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---- | ------------ | ---------- |
+| **Task A: Scrape GoFundMe**      | Scrape ~1000 fundraising campaigns; output CSV with (i) image URLs, (ii) text description of a post, (iii) $ raised, (iv) how long the campaign has been running |                      | Grace | 2 Oct |              |        |
+| **Task B: Obtain Image Labels**    | Using the image URLs, obtain image labels (text) from Google Vision   |                      |  Grace           | 2 Oct     |              |            |
+| **Task C: Binary Column**    | Create a column called binary (lowercase only) where value =1 (stands for high $$) or 0 (stands for low $) based on the median value   |     |         |   |              |            |
+| **Task D: Logistic Regression**  | Run logistic regression with **binary** as dependent variable and **image_labels** as independent variables. Use BoW model (TF-IDF) for text. Calculate accuracy         |                          |              |      |              |            |
+| **Task E: Topic Modeling (LDA)** | Perform topic modeling on either image labels or word descriptions. Choose 4-5 topics and sort by $ raised          |                          |              |      |              |            |
+| **Task F: Advice**    | What advice would you give to the organization if it wants to increase $ raised?   |                           |               |      |              |            |
+| **Final Integration**          | Combine all results, plots, analysis into one summary notebook (optional)             |     |              |     |              |            |
